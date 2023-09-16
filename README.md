@@ -1,6 +1,7 @@
  # Course Registration
 
  <h2>React is a powerful library for building dynamic and interactive web applications. Here are three project features that showcase some of React's capabilities.</h2>
+ 
 - User Authentication and Authorization.
 
 - Interactive Dashboards.
