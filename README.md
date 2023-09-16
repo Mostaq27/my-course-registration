@@ -2,7 +2,9 @@
 
  <h2>React is a powerful library for building dynamic and interactive web applications. Here are three project features that showcase some of React's capabilities.</h2>
 - User Authentication and Authorization.
+
 - Interactive Dashboards.
+  
 - Real-Time Data Updates.
 
 # In the assignment project, state management is primarily handled using React's built-in `useState` hook. Here's how state is managed in this project:
