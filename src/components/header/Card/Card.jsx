@@ -1,13 +1,13 @@
 import { IoMdBook } from "react-icons/io";
 import { FiDollarSign} from "react-icons/fi";
-// import { PropTypes } from 'prop-types';
+ 
 const Card = ({ card, handleAddToBookmark }) => {
     const { course_title, course_img, course_details, credit, price } = card
     return (
         
-            <div className=" grid w-[70%] card rounded-box shadow-xl px-3 ">
+            <div className=" grid w-[312px]  card rounded-box shadow-2xl px-3 ">
 
-                <figure className="]">
+                <figure className="mt-2">
                     <img src={course_img} alt="" className="rounded-xl" />
                 </figure>
                 <h2 className="text-xl font-semibold py-2">{course_title}</h2>
@@ -30,9 +30,6 @@ const Card = ({ card, handleAddToBookmark }) => {
     );
 };
 
-// Card.propTypes = {
-//     card: PropTypes.object.isRequired
-//     //  handleAddToBookmark: PropTypes.func
-// }
+ 
 
 export default Card;

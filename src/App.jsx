@@ -45,11 +45,11 @@ function App() {
 
   return (
     <>
-       
+       <div className=' bg-base-200 p-10'>
       <Header></Header>
       
-       <div className=''> 
-       <div className='flex flex-col w-full lg:flex-row  '>
+       <div className='p-10'> 
+       <div className='flex flex-col w-full lg:flex-row gap-5  '>
  
       <Cards handleAddToBookmark={handleAddToBookmark}></Cards>
       <Bookmarks bookmarks={bookmarks} remaining={remaining} courseCredit={courseCredit}></Bookmarks>
@@ -57,7 +57,7 @@ function App() {
       </div>
       </div>
       
-       
+      </div>
     </>
   );
 };

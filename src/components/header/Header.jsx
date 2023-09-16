@@ -2,7 +2,7 @@
 const Header = () => {
 
     return (
-        <div className="pb-10"> 
+        <div className=""> 
             <div className="navbar bg-blue-100 rounded-lg">
   <div className="flex-1">
     <a className="btn btn-ghost normal-case text-4xl font-bold">Course Registration</a>
