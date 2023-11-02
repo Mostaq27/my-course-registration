@@ -48,7 +48,7 @@ function App() {
        <div className=' bg-base-200 p-10'>
       <Header></Header>
       
-       <div className='p-10'> 
+       <div className='lg:p-10'> 
        <div className='flex flex-col w-full lg:flex-row gap-5  '>
  
       <Cards handleAddToBookmark={handleAddToBookmark}></Cards>
@@ -63,4 +63,7 @@ function App() {
 };
 
 
-export default App
+export default App;
+
+
+ 

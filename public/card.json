@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "course_img": "https://i.ibb.co/wsnw70W/Rectangle-2-2.png",
+    "course_img": "https://i.ibb.co/JHmDPs9/Rectangle-2-2.png",
     "course_title": "Introduction to c Programming",
     "course_details": "C is a general-purpose high level language that was originally developed by Dennis Ritchie for the Unix operating system.",
     "price": 15000,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "course_img": "https://i.ibb.co/h8CBmfx/Rectangle-2-3.png",
+    "course_img": "https://i.ibb.co/Mk3NpJH/Rectangle-2-3.png",
     "course_title": "Introduction to Algorithms",
     "course_details": "An algorithm is a well-defined step-by-step procedure to transform a given input into the desired output to solve a computational problem.",
     "price": 25000,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "course_img": "https://i.ibb.co/5rp0hYf/Rectangle-2-4.png",
+    "course_img": "https://i.ibb.co/BjpCqPD/Rectangle-2-4.png",
     "course_title": "Introduction to C++ for DSA",
     "course_details": "C++ is a powerful and popular programming language often used in competitive programming and DSA courses due to its efficiency and versatility.",
     "price": 10000,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "course_img": "https://i.ibb.co/kyTJpQH/Rectangle-3.png",
+    "course_img": "https://i.ibb.co/FsLS4R8/Rectangle-3.png",
     "course_title": "Basic Data Structures",
     "course_details": "Arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs are the basic data structures.",
     "price": 35000,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "course_img": "https://i.ibb.co/pXSdFTf/Rectangle-2.png",
+    "course_img": "https://i.ibb.co/gjf5ZXH/Rectangle-2.png",
     "course_title": "Introduction to OOP Python",
     "course_details": "In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming.",
     "price": 19000,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "course_img": "https://i.ibb.co/hVnJNGp/Rectangle-2-5.png",
+    "course_img": "https://i.ibb.co/MpYnYQ3/Rectangle-2-5.png",
     "course_title": "Software Engineering",
     "course_details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.",
     "price": 23000,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "course_img": "https://i.ibb.co/ZBGJ5Sy/Rectangle-3-1.png",
+    "course_img": "https://i.ibb.co/1fSCDvQ/Rectangle-3-1.png",
     "course_title": "AWS, Cloud Computing",
     "course_details": "Amazon Web Services (AWS) is a leading cloud computing platform that offers a wide range of cloud services, including computing power, storage, databases, machine learning, analytics.",
     "price": 35000,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "course_img": "https://i.ibb.co/sjmC1dn/Rectangle-2-1.png",
+    "course_img": "https://i.ibb.co/z7Jb4c0/Rectangle-2-1.png",
     "course_title": "Database (MySQL)",
     "course_details": "The full form of MYSQL is My Structured Query Language. It is a popular open-source relational database management system (RDBMS) that is used for storing and managing data.",
     "price": 19000,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "course_img": "https://i.ibb.co/rcT81PH/Rectangle-2-6.png",
+    "course_img": "https://i.ibb.co/1qZ6SDS/Rectangle-2-6.png",
     "course_title": "Problem-Solving Part",
     "course_details": " Problem-solving is a crucial skill in various aspects of life, from personal challenges to professional tasks.",
     "price": 23000,
