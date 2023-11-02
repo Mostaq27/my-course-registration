@@ -32,6 +32,8 @@
 
 the state management in this project is focused on keeping track of bookmarked courses, calculating total credits, and ensuring that users don't exceed the maximum credit limit. React's `useState` hook is used effectively to manage and update these states, and toast notifications provide feedback to the user based on specific conditions.
 
+# <h1> Live Side </h1>
+Link -> (
 
 # <h1>Resources</h1>
 
